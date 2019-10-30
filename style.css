@@ -1,0 +1,15 @@
+body,html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: lavender;
+
+}
+.greeting {
+    color:magenta;
+    transition:.2s all ease-in-out
+
+}
+.greeting:hover {
+    color:cyan
+}
